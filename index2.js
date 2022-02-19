@@ -1,1 +1,1 @@
-console.log("soy el senior")
+console.log("cambios del junior")
