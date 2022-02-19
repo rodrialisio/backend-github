@@ -1,1 +1,1 @@
-console.log("soy el index 2")
+console.log("soy el junior")
