@@ -1,1 +1,2 @@
-console.log("cambios del junior")
+console.log("cambios del senior")
+console.log("hola")
